@@ -1,6 +1,7 @@
 # I18n.js
 
 It's a small library to provide the Rails I18n translations on the Javascript.
+This is a copy file of I18n old version which is already removed original url.
 
 Features:
 
